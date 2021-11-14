@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oLucao
-- 👀 I’m interested in snag more stuff each day
+- 👀 I’m interested in learn more stuff each day
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (oops).
