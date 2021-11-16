@@ -1,4 +1,4 @@
-## Eaeee eu sou o Lucas, estudante e uma pessoa que ama uma tecnologia!
+## Eaeee I'm Lucas, student and a person who loves technology!
 <div align="center">
   <a href="https://github.com/oLucao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oLucao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
